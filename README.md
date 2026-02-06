@@ -1,13 +1,12 @@
 <html>
-<head>
-  <title>Presentacion</title>
-</head>
 <body>
-  <h1>Nombre: Daniel
-      Direccion de correo: daniel.marrero.sanchez@udc.es</h1>
+  
+  <h1>Nombre: Daniel</h1>
+  
+  <p1>Direccion de correo: daniel.marrero.sanchez@udc.es</p1>
 
   <h2>"FREE DNS": https://freedns.afraid.org</h2>
 
-  <p>Link: http://marrero-sanchez-daniel.twilightparadox.com/</p>
+  <p2>Link: http://marrero-sanchez-daniel.twilightparadox.com/</p2>
 </body>
 </html>

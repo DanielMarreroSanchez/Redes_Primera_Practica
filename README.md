@@ -5,9 +5,7 @@
   
   <p1>Direccion de correo: daniel.marrero.sanchez@udc.es</p1>
 
-  <h2><a href="https://freedns.afraid.org">FREE DNS</a></h2>
-  
-  
+  <h2><a href="https://freedns.afraid.org">Free DNS</a></h2>
   
   <p2>Link: http://marrero-sanchez-daniel.twilightparadox.com/</p2>
   

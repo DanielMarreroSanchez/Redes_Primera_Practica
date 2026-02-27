@@ -1,7 +1,7 @@
 <html>
 <body>
   
-  <h1>Nombre: Daniel</h1>
+  
   
   <p1>Direccion de correo: daniel.marrero.sanchez@udc.es</p1>
 

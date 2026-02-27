@@ -1,5 +1,5 @@
 <html>
-<body>
+
   
   <h1>Nombre: Daniel</h1>
   
@@ -9,5 +9,5 @@
   
   <p2>Link: https://marrero-sanchez-daniel.twilightparadox.com/</p2>
   
-</body>
+
 </html>

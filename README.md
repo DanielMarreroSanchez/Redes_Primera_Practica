@@ -7,7 +7,7 @@
 
   <h2><a href="https://freedns.afraid.org">Free DNS</a></h2>
   
-  <p2>Link: http://marrero-sanchez-daniel.twilightparadox.com/</p2>
+  <p2>Link: https://marrero-sanchez-daniel.twilightparadox.com/</p2>
   
 </body>
 </html>

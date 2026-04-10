@@ -5,7 +5,11 @@
     style="font-family: Arial"
     Nombre: Daniel Marrero Sánchez
   </h1>
-  
+
+  <p style="font-family: Arial; font-size: 20px; font-weight: bold; color: blue;">
+  Texto con formato personalizado.
+</p>
+
   <p1>
     style="font-family: Segoe UI"
   Direccion de correo: daniel.marrero.sanchez@udc.es
